@@ -12,11 +12,11 @@ Any beginner is recommended to start at 'pso-basic'.
 To understand the inspiration behind the algorithm and the mathematics governing the model have a look at the original [paper.](https://www.cs.tufts.edu/comp/150GA/homeworks/hw3/_reading6%201995%20particle%20swarming.pdf)
 - - - -
 
-1. Adaptive Optimization**: One of the key advantages of using the PSO algorithm for ANC is its adaptive optimization capabilities. PSO can dynamically adjust ANC system parameters in real-time to deal with varying noise environments. This adaptability is crucial for maintaining effective noise cancellation in situations where the noise pattern changes frequently, such as in automotive or aviation applications.
+1. Adaptive Optimization: One of the key advantages of using the PSO algorithm for ANC is its adaptive optimization capabilities. PSO can dynamically adjust ANC system parameters in real-time to deal with varying noise environments. This adaptability is crucial for maintaining effective noise cancellation in situations where the noise pattern changes frequently, such as in automotive or aviation applications.
 
-2. Efficiency and Convergence**: The PSO algorithm is known for its efficiency and quick convergence to an optimal solution. In the context of ANC, this means that the system can quickly adapt to new noise conditions and find the optimal parameters for noise cancellation without requiring extensive computational resources. This efficiency makes PSO an excellent choice for embedded systems or applications where processing power is limited.
+2. Efficiency and Convergence: The PSO algorithm is known for its efficiency and quick convergence to an optimal solution. In the context of ANC, this means that the system can quickly adapt to new noise conditions and find the optimal parameters for noise cancellation without requiring extensive computational resources. This efficiency makes PSO an excellent choice for embedded systems or applications where processing power is limited.
 
-3. Robustness and Flexibility**: PSO's robustness to the initial choice of parameters and its flexibility in handling non-linear optimization problems make it particularly suited for ANC applications. The algorithm can optimize a wide range of ANC system parameters, from filter coefficients to microphone and speaker placements, ensuring that the system can effectively cancel out complex and dynamically changing noise patterns.
+3. Robustness and Flexibility: PSO's robustness to the initial choice of parameters and its flexibility in handling non-linear optimization problems make it particularly suited for ANC applications. The algorithm can optimize a wide range of ANC system parameters, from filter coefficients to microphone and speaker placements, ensuring that the system can effectively cancel out complex and dynamically changing noise patterns.
 
 ## Algorithm 
 
